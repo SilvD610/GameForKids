@@ -1,0 +1,8 @@
+﻿  Assignment Begin.cpp
+C:\Users\User10\Documents\Programming Fundamentals 2024\Group Assignment\Assignment Begin\Assignment Begin.cpp(292,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User10\Documents\Programming Fundamentals 2024\Group Assignment\Assignment Begin\Assignment Begin.cpp(295,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User10\Documents\Programming Fundamentals 2024\Group Assignment\Assignment Begin\Assignment Begin.cpp(298,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User10\Documents\Programming Fundamentals 2024\Group Assignment\Assignment Begin\Assignment Begin.cpp(301,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User10\Documents\Programming Fundamentals 2024\Group Assignment\Assignment Begin\Assignment Begin.cpp(304,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User10\Documents\Programming Fundamentals 2024\Group Assignment\Assignment Begin\Assignment Begin.cpp(307,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment Begin.vcxproj -> C:\Users\User10\Documents\Programming Fundamentals 2024\Group Assignment\Assignment Begin\x64\Debug\Assignment Begin.exe
